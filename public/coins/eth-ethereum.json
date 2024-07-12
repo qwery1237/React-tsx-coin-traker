@@ -1,0 +1,253 @@
+{
+  "id": "eth-ethereum",
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "rank": 2,
+  "is_new": false,
+  "is_active": true,
+  "type": "coin",
+  "logo": "https://static.coinpaprika.com/coin/eth-ethereum/logo.png",
+  "tags": [
+    {
+      "id": "token-issuance",
+      "name": "Token Issuance",
+      "coin_counter": 55,
+      "ico_counter": 25
+    },
+    {
+      "id": "decentralized-applications",
+      "name": "Decentralized Applications",
+      "coin_counter": 127,
+      "ico_counter": 1
+    },
+    {
+      "id": "smart-contracts",
+      "name": "Smart Contracts",
+      "coin_counter": 507,
+      "ico_counter": 305
+    },
+    {
+      "id": "cryptocurrency",
+      "name": "Cryptocurrency",
+      "coin_counter": 1129,
+      "ico_counter": 40
+    },
+    {
+      "id": "premine",
+      "name": "Premine",
+      "coin_counter": 536,
+      "ico_counter": 0
+    },
+    {
+      "id": "ethash",
+      "name": "Ethash",
+      "coin_counter": 35,
+      "ico_counter": 0
+    },
+    {
+      "id": "proof-of-stake",
+      "name": "Proof Of Stake",
+      "coin_counter": 905,
+      "ico_counter": 2
+    },
+    {
+      "id": "layer-1-l1",
+      "name": "Layer 1 (L1)",
+      "coin_counter": 113,
+      "ico_counter": 0
+    },
+    {
+      "id": "ftx-holdings",
+      "name": "FTX Holdings",
+      "coin_counter": 15,
+      "ico_counter": 0
+    }
+  ],
+  "team": [
+    {
+      "id": "vitalik-buterin",
+      "name": "Vitalik Buterin",
+      "position": "Author"
+    },
+    {
+      "id": "jeffrey-wylcke",
+      "name": "Jeffrey Wylcke",
+      "position": "Go-Ethereum Lead"
+    },
+    {
+      "id": "virgil-griffith",
+      "name": "Virgil Griffith",
+      "position": "Researcher"
+    },
+    {
+      "id": "alexandre-van-de-sande",
+      "name": "Alexandre Van de Sande",
+      "position": "UX Design"
+    },
+    {
+      "id": "alex-leverington",
+      "name": "Alex Leverington",
+      "position": "Core Developer"
+    },
+    {
+      "id": "aya-miyaguchi",
+      "name": "Aya Miyaguchi",
+      "position": "Executive Director"
+    },
+    {
+      "id": "vlad-zamfir",
+      "name": "Vlad Zamfir",
+      "position": "Researcher"
+    },
+    {
+      "id": "zach-lebeau",
+      "name": "Zach Lebeau",
+      "position": "Conceptualist"
+    },
+    {
+      "id": "justin-drake",
+      "name": "Justin Drake",
+      "position": "Researcher"
+    },
+    {
+      "id": "yoichi-hirai",
+      "name": "Yoichi Hirai",
+      "position": "Formal Verification Engineer"
+    },
+    {
+      "id": "iuri-matias",
+      "name": "Iuri Matias",
+      "position": "Developer"
+    },
+    {
+      "id": "karl-floersch",
+      "name": "Karl Floersch",
+      "position": "Researcher"
+    }
+  ],
+  "description": "Ethereum is a decentralized platform for applications. Applications build on it can use smart contracts - computer algorithms which execute themselves when data is supplied to the platform. There is no need for any human operators.",
+  "message": "",
+  "open_source": true,
+  "started_at": "2015-07-30T00:00:00Z",
+  "development_status": "Working product",
+  "hardware_wallet": true,
+  "proof_type": "Proof of Stake",
+  "org_structure": "Semi-centralized",
+  "hash_algorithm": "Ethash",
+  "links": {
+    "explorer": [
+      "https://etherscan.io/",
+      "https://ethplorer.io/",
+      "https://etherchain.org/",
+      "https://blockchair.com/ethereum/?from=coinpaprika",
+      "https://live.blockcypher.com/eth/",
+      "https://enjinx.io/eth/transactions"
+    ],
+    "facebook": [
+      "https://www.facebook.com/ethereumproject/"
+    ],
+    "reddit": [
+      "https://www.reddit.com/r/ethereum"
+    ],
+    "source_code": [
+      "https://github.com/ethereum/go-ethereum"
+    ],
+    "website": [
+      "https://www.ethereum.org/"
+    ],
+    "youtube": [
+      "https://youtu.be/lDK9QqIzhwk?si=KKgdDppg1QAhy-0j",
+      "https://www.youtube.com/watch?v=TDGq4aeevgY"
+    ]
+  },
+  "links_extended": [
+    {
+      "url": "https://bitcointalk.org/index.php?topic=428589.0",
+      "type": "announcement"
+    },
+    {
+      "url": "https://blog.ethereum.org/",
+      "type": "blog"
+    },
+    {
+      "url": "https://gitter.im/orgs/ethereum/rooms",
+      "type": "chat"
+    },
+    {
+      "url": "https://etherscan.io/",
+      "type": "explorer"
+    },
+    {
+      "url": "https://ethplorer.io/",
+      "type": "explorer"
+    },
+    {
+      "url": "https://etherchain.org/",
+      "type": "explorer"
+    },
+    {
+      "url": "https://blockchair.com/ethereum/?from=coinpaprika",
+      "type": "explorer"
+    },
+    {
+      "url": "https://live.blockcypher.com/eth/",
+      "type": "explorer"
+    },
+    {
+      "url": "https://enjinx.io/eth/transactions",
+      "type": "explorer"
+    },
+    {
+      "url": "https://www.facebook.com/ethereumproject/",
+      "type": "facebook"
+    },
+    {
+      "url": "https://forum.ethereum.org/",
+      "type": "message_board"
+    },
+    {
+      "url": "https://www.reddit.com/r/ethereum",
+      "type": "reddit",
+      "stats": {
+        "subscribers": 2616197
+      }
+    },
+    {
+      "url": "https://github.com/ethereum/go-ethereum",
+      "type": "source_code",
+      "stats": {
+        "contributors": 995,
+        "stars": 46405
+      }
+    },
+    {
+      "url": "https://twitter.com/ethereum",
+      "type": "twitter",
+      "stats": {
+        "followers": 3059760
+      }
+    },
+    {
+      "url": "https://github.com/ethereum/mist/releases",
+      "type": "wallet"
+    },
+    {
+      "url": "https://www.ethereum.org/",
+      "type": "website"
+    },
+    {
+      "url": "https://youtu.be/lDK9QqIzhwk?si=KKgdDppg1QAhy-0j",
+      "type": "youtube"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TDGq4aeevgY",
+      "type": "youtube"
+    }
+  ],
+  "whitepaper": {
+    "link": "https://ethereum.org/en/whitepaper/",
+    "thumbnail": "https://static.coinpaprika.com/storage/cdn/whitepapers/1689.jpg"
+  },
+  "first_data_at": "2015-08-07T00:00:00Z",
+  "last_data_at": "2024-05-27T22:56:00Z"
+}

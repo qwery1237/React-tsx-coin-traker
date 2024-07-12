@@ -1,0 +1,130 @@
+{
+  "id": "hex-hex",
+  "name": "eHEX (Ethereum)",
+  "symbol": "EHEX",
+  "rank": 3,
+  "is_new": false,
+  "is_active": true,
+  "type": "token",
+  "contract": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+  "platform": "eth-ethereum",
+  "contracts": [
+    {
+      "contract": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+      "platform": "eth-ethereum",
+      "type": "ERC20"
+    }
+  ],
+  "logo": "https://static.coinpaprika.com/coin/ehex-ehex-ethereum/logo.png",
+  "parent": {
+    "id": "eth-ethereum",
+    "name": "Ethereum",
+    "symbol": "ETH"
+  },
+  "tags": [
+    {
+      "id": "erc20",
+      "name": "Ethereum (ETH) Token (ERC-20)",
+      "coin_counter": 10608,
+      "ico_counter": 403
+    },
+    {
+      "id": "smart-contracts",
+      "name": "Smart Contracts",
+      "coin_counter": 507,
+      "ico_counter": 305
+    },
+    {
+      "id": "alleged-sec-securities",
+      "name": "Alleged SEC Securities",
+      "coin_counter": 45,
+      "ico_counter": 0
+    }
+  ],
+  "team": [
+    {
+      "id": "richard-heart",
+      "name": "Richard Heart",
+      "position": "Creator"
+    }
+  ],
+  "description": "HEX is an ERC20 token designed and launched by Richard Heart on 2 December 2019 on the Ethereum network. HEX is designed to be a store of value to replace the Certificate of Deposit as the blockchain counterpart of that financial product used in traditional financial markets. HEX is also designed to leverage off the emerging DeFi (Decentralised Finance) ecosystem in cryptocurrencies within the Ethereum network. HEX uses the Ethereum network for the transaction layer (sending and receiving HEX tokens, as well as interacting with the HEX smart contract), whilst the consensus code and staking mechanism is contained in the HEX smart contract.\r\n\r\nHEX allows a user to stake his or her HEX coins for a share of the new HEX coin issuance, or inflation, and contains features designed to incentivise behaviours that encourage price appreciation, and disincentivise behaviours that encourage harm to the price. The HEX smart contract penalises stakers for ending their stake early and rewards them for staking larger amounts of HEX for longer periods.\r\n\r\nHEX is distributed to Bitcoin holders by way of a snapshot of the Bitcoin UTXO set that occurred on 2 December 2019 at block height 606227. The distribution of HEX to Bitcoin holders is 10,000 HEX per 1 BTC. Bitcoin holders are able to claim HEX only during the first year of launch. During this period, HEX is also obtained in exchange for ETH through interacting with the HEX smart contract. At the end of the first year of launch, all HEX coins that were not claimed by Bitcoin holders are distributed to the rest of the HEX users who have stakes that are active. ",
+  "message": "",
+  "open_source": false,
+  "started_at": "2019-12-02T00:00:00Z",
+  "development_status": "Working product",
+  "hardware_wallet": true,
+  "proof_type": "Not mineable",
+  "org_structure": "Semi-centralized",
+  "hash_algorithm": "None",
+  "links": {
+    "explorer": [
+      "https://etherscan.io/token/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
+    ],
+    "facebook": [
+      "https://www.facebook.com/HEXcrypto"
+    ],
+    "reddit": [
+      "https://www.reddit.com/r/HEXcrypto/"
+    ],
+    "source_code": [
+      "https://github.com/BitcoinHEX"
+    ],
+    "website": [
+      "https://hex.win/"
+    ]
+  },
+  "links_extended": [
+    {
+      "url": "https://bitcointalk.org/index.php?topic=4523610.0",
+      "type": "announcement"
+    },
+    {
+      "url": "https://discord.com/invite/JmKBUCZKB3",
+      "type": "discord"
+    },
+    {
+      "url": "https://etherscan.io/token/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+      "type": "explorer"
+    },
+    {
+      "url": "https://www.facebook.com/HEXcrypto",
+      "type": "facebook"
+    },
+    {
+      "url": "https://www.reddit.com/r/HEXcrypto/",
+      "type": "reddit",
+      "stats": {
+        "subscribers": 27172
+      }
+    },
+    {
+      "url": "https://github.com/BitcoinHEX",
+      "type": "source_code"
+    },
+    {
+      "url": "https://t.me/HEXcrypto",
+      "type": "telegram",
+      "stats": {
+        "members": 24706
+      }
+    },
+    {
+      "url": "https://twitter.com/HEXcrypto",
+      "type": "twitter",
+      "stats": {
+        "followers": 83537
+      }
+    },
+    {
+      "url": "https://hex.win/",
+      "type": "website"
+    }
+  ],
+  "whitepaper": {
+    "link": null,
+    "thumbnail": null
+  },
+  "first_data_at": "2019-12-14T00:00:00Z",
+  "last_data_at": "2024-05-27T22:58:00Z"
+}

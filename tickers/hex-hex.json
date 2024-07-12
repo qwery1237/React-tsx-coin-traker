@@ -1,0 +1,32 @@
+{
+  "id": "hex-hex",
+  "name": "eHEX (Ethereum)",
+  "symbol": "EHEX",
+  "rank": 306,
+  "total_supply": 598300534914,
+  "max_supply": 649166714658,
+  "beta_value": 1.18278,
+  "first_data_at": "2019-12-14T00:00:00Z",
+  "last_updated": "2024-05-27T22:59:17Z",
+  "quotes": {
+    "USD": {
+      "price": 0.00171661068439926,
+      "volume_24h": 381769.784231994,
+      "volume_24h_change_24h": 7.7,
+      "market_cap": 163615652,
+      "market_cap_change_24h": -1.98,
+      "percent_change_15m": -0.02,
+      "percent_change_30m": -0.09,
+      "percent_change_1h": -0.75,
+      "percent_change_6h": 2.27,
+      "percent_change_12h": -0.16,
+      "percent_change_24h": -2.06,
+      "percent_change_7d": -11.21,
+      "percent_change_30d": -19.99,
+      "percent_change_1y": -88.57,
+      "ath_price": 0.511064604875447,
+      "ath_date": "2021-09-19T06:35:00Z",
+      "percent_from_price_ath": -99.66
+    }
+  }
+}

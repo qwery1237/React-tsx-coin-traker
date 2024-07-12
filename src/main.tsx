@@ -12,7 +12,7 @@ import { RecoilRoot } from 'recoil';
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/react-tsx-coin-traker',
     element: <App />,
     children: [
       {
